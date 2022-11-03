@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="76LSoUT8IJL4YJb2T3Nh" name="Page-1">
-        <mxGraphModel dx="645" dy="515" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="354" dy="515" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -8,7 +8,7 @@
                     <mxGeometry x="370" y="360" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="&lt;font color=&quot;#000000&quot;&gt;users&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-                    <mxGeometry x="144" y="210" width="130" height="90" as="geometry"/>
+                    <mxGeometry x="108" y="192" width="130" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="comments" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="140" width="130" height="90" as="geometry"/>
